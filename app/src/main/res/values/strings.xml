@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Info Kesehatan</string>
+    <string name="placeholder_search">search</string>
+    <string name="ab1_inversions">inversions</string>
+    <string name="fc2_nature_meditations">meditation</string>
+    <string name="ab2_quick_yoga">Yoga</string>
+    <string name="ab3_streching">Strching</string>
+    <string name="ab4_tabata">tabata</string>
+    <string name="ab5_hiit">hit</string>
+    <string name="ab6_pre_natal_yoga">preYoga</string>
+    <string name="fc1_short_mantras">Mantras</string>
+    <string name="fc3_stress_and_anxiety">anxiety</string>
+    <string name="fc4_self_massage">message</string>
+    <string name="fc6_nightly_wind_down">whelmed</string>
+    <string name="fc5_overwhelmed">whelmedd</string>
+    <string name="align_your_body">Body</string>
+    <string name="favorite_collections">Favorite Collection</string>
+    <string name="bottom_navigation_home">Home</string>
+    <string name="bottom_navigation_profile">Profile</string>
+    <string name="jenis_makanan">Aneka Kuliner</string>
+    <string name="bakso">Bakso Malang</string>
+    <string name="malang">Kota Malang</string>
+    <string name="rawon">Rawon</string>
+    <string name="pecel">Pecel Kawi</string>
+    <string name="orem_orem">Orem Orem Tempe</string>
+    <string name="bandung">Kota Bandung</string>
+    <string name="nasi_timbel">Nasi Timbel</string>
+    <string name="soto_bandung">Soto Bandung</string>
+    <string name="kupat_tahu">Kupat Tahu</string>
+    <string name="mie_kocok">Mie Kocok</string>
+    <string name="surabaya">Kota Surabaya</string>
+    <string name="jogja">Kota Jogja</string>
+    <string name="makassar">Kota Makassar</string>
+</resources>
